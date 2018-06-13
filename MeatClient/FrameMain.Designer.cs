@@ -37,6 +37,7 @@
             this.ClientSize = new System.Drawing.Size(1008, 729);
             this.Name = "FrameMain";
             this.Text = "屠宰厂MES";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FrameMain_FormClosed);
             this.ResumeLayout(false);
 
         }
