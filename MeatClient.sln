@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeatClient", "MeatClient\MeatClient.csproj", "{AA856F59-CF0A-46C1-A51F-B04431C34EA4}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CondiTecIntaller", "CondiTecIntaller\CondiTecIntaller.vdproj", "{23F238A3-3D12-4351-ABDB-1655400F7FC8}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CondiSoft", "CondiSoft\CondiSoft.vdproj", "{C495C44A-C150-4865-953F-9B31F6BAA836}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +17,8 @@ Global
 		{AA856F59-CF0A-46C1-A51F-B04431C34EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA856F59-CF0A-46C1-A51F-B04431C34EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA856F59-CF0A-46C1-A51F-B04431C34EA4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{23F238A3-3D12-4351-ABDB-1655400F7FC8}.Debug|Any CPU.ActiveCfg = Debug
-		{23F238A3-3D12-4351-ABDB-1655400F7FC8}.Release|Any CPU.ActiveCfg = Release
+		{C495C44A-C150-4865-953F-9B31F6BAA836}.Debug|Any CPU.ActiveCfg = Debug
+		{C495C44A-C150-4865-953F-9B31F6BAA836}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

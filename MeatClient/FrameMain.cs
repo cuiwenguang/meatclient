@@ -36,7 +36,7 @@ namespace MeatClient
                 if (barCode.IsValid)
                 {
                     ExecuteJavascript("setBarCode('" + barCode.BarCode + "')");
-                    MessageBox.Show(barCode.BarCode);                   
+                    //MessageBox.Show(barCode.BarCode);                   
                 }  
             }
         }
